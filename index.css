@@ -1,0 +1,39 @@
+body { background-image: url(https://www.eatwell101.com/wp-content/uploads/2012/11/VINTAGE-RECIPE-HOLDER.jpg);
+    background-size: cover;
+   background-repeat: repeat-y;
+}
+   h1 {
+       font-family: garamond;
+       border-color: black;
+       border-style: solid;
+       border-radius: 50px;
+       text-align: center;
+       color:chocolate;
+   }
+   div {
+       font-size: larger;
+       width: 300px auto;
+       height:160px auto;
+       font-family: arial; 
+       border: 4px;
+       border-style: dotted;
+       background-color: rgb(250, 235, 215,0.5) ;
+       box-sizing: border-box;
+       padding: 12px;
+   }
+   ul{
+       color:red;
+       margin: 10px;
+   }
+   li{
+       color: black;
+       font-family: cursive;
+       font-size: xx-large;
+       border: 2px solid rgb(75, 23, 97);
+       border-radius: 12px;
+       padding: 10px; 
+       margin: 12px;
+   }
+   a{
+       color: black;
+   }
